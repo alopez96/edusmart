@@ -931,7 +931,7 @@ button:focus {
   .testimonial_area .owl-thumb-item:last-child {
     margin-right: 0; }
   .testimonial_area .owl-thumb-item.active .overlay-grad {
-    opacity: 0.8; }
+    opacity: 0.2; }
   .testimonial_area .owl-thumb-item .overlay-grad {
     position: absolute;
     top: 0;
@@ -944,7 +944,7 @@ button:focus {
     transition: all 0.3s ease 0s;
     cursor: pointer; }
     .testimonial_area .owl-thumb-item .overlay-grad:hover, .testimonial_area .owl-thumb-item .overlay-grad.active {
-      opacity: 0.8; }
+      opacity: 0.3; }
 
 .single_testimonial .testimonial_head {
   text-align: center; }

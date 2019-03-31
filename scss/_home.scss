@@ -441,7 +441,7 @@
     &.active {
       .overlay-grad {
         @extend .gradient-bg;
-        opacity: 0.8;
+        opacity: 0.3;
       }
     }
     .overlay-grad {
@@ -455,7 +455,7 @@
       &:hover,
       &.active {
         @extend .gradient-bg;
-        opacity: 0.8;
+        opacity: 0.3;
       }
     }
   }
